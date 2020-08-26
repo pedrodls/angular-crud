@@ -1,3 +1,3 @@
 # angular-crud
 
-Make a simple SPA about market to training JS' angular framework
+Make a simple SPA about school shopping to training JS' angular framework
