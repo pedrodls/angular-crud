@@ -1,9 +1,10 @@
-.home .title{
+.theme1 .title{
     font-size: 3rem;
-    font-weight: 300;
+    font-weight: 1;
     line-height: 1.2;
 }
 
-.home .subtitle{
+.theme1.subtitle{
+    font-weight: 1;
     font-size: 1.1rem;
 }
