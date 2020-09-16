@@ -1,3 +1,5 @@
+import { LoopforDirective } from './directive/loopfor.directive';
+import { RedDirective } from './directive/red.directive';
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
@@ -21,7 +23,9 @@ import { ProductCrudComponent } from './views/product-crud/product-crud.componen
     FooterComponent,
     NavComponent,
     HomeComponent,
-    ProductCrudComponent
+    ProductCrudComponent,
+    RedDirective,
+    LoopforDirective
   ],
   imports: [
     BrowserModule,
